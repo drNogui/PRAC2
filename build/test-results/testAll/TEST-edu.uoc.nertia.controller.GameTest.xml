@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.nertia.controller.GameTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-10-15T11:24:56" hostname="MacBook-Air-de-Joan.local" time="0.054">
+  <properties/>
+  <testcase name="Sanity - Class definition" classname="edu.uoc.nertia.controller.GameTest" time="0.022"/>
+  <testcase name="Controller - isLevelCompleted" classname="edu.uoc.nertia.controller.GameTest" time="0.009"/>
+  <testcase name="Special - movePlayer + getScore" classname="edu.uoc.nertia.controller.GameTest" time="0.002"/>
+  <testcase name="Controller - getBoardSize" classname="edu.uoc.nertia.controller.GameTest" time="0.004"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.nertia.controller.GameTest" time="0.001"/>
+  <testcase name="Controller - isFinished" classname="edu.uoc.nertia.controller.GameTest" time="0.001"/>
+  <testcase name="Controller - getCurrentLevel" classname="edu.uoc.nertia.controller.GameTest" time="0.001"/>
+  <testcase name="Controller - testToString" classname="edu.uoc.nertia.controller.GameTest" time="0.004"/>
+  <testcase name="Controller - getCell" classname="edu.uoc.nertia.controller.GameTest" time="0.002"/>
+  <testcase name="Controller - hasLost" classname="edu.uoc.nertia.controller.GameTest" time="0.0"/>
+  <testcase name="Controller - nextLevel + getScore" classname="edu.uoc.nertia.controller.GameTest" time="0.002"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.nertia.controller.GameTest" time="0.001"/>
+  <testcase name="Controller - getDifficulty" classname="edu.uoc.nertia.controller.GameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+module:edu.uoc.nertia
+edu.uoc.nertia.controller
+edu.uoc.nertia.model.cells
+edu.uoc.nertia.model.exceptions
+edu.uoc.nertia.model.leaderboard
+edu.uoc.nertia.model.levels
+edu.uoc.nertia.model.stack
+edu.uoc.nertia.model.utils
+edu.uoc.nertia.view.cmd
+edu.uoc.nertia.view.gui

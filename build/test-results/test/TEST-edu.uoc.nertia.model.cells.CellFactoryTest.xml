@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.nertia.model.cells.CellFactoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-10T08:24:24" hostname="MacBook-Air-de-Joan.local" time="0.008">
+  <properties/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.nertia.model.cells.CellFactoryTest" time="0.006"/>
+  <testcase name="Sanity - getCellInstance definition" classname="edu.uoc.nertia.model.cells.CellFactoryTest" time="0.001"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.nertia.model.cells.CellFactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.nertia.model.levels.LevelTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-10-15T11:24:56" hostname="MacBook-Air-de-Joan.local" time="0.011">
+  <properties/>
+  <testcase name="Sanity - Class definition" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.001"/>
+  <testcase name="Minimum - hasWon" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - toString" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.001"/>
+  <testcase name="Minimum - increaseNumLives" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - getCell" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.001"/>
+  <testcase name="Minimum - getSize" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - increaseNumGemsGot" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - getNumGemsInit" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.001"/>
+  <testcase name="Minimum - getNumLives" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - getNumMoves + increaseNumMoves" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - hasLost" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - getPlayerPosition + setCell" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - getNumGemsGot" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - decreaseNumGemsGot" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.001"/>
+  <testcase name="Minimum - getDifficulty" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.001"/>
+  <testcase name="Minimum - decreaseNumLives" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <testcase name="Minimum - Constructor exceptions" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.003"/>
+  <testcase name="Advanced - getScore + push + undo" classname="edu.uoc.nertia.model.levels.LevelTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
